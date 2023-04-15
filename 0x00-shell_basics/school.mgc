@@ -1,0 +1,7 @@
+vim school
+paste :
+0        string SCHOOL School data
+!:mime School
+exactly as it is wrriten above 
+save and exit vim
+paste: file -C -m school
